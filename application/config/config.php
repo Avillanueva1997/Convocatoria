@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/Convocatoria/';
+$config['base_url'] = 'https://mysterious-dawn-98389.herokuapp.com/';
 
 /*
 |--------------------------------------------------------------------------
